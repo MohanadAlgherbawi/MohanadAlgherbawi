@@ -43,7 +43,7 @@ Here are some of the languages and tools I work with:
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohanadAlgherbawi&show_icons=true&theme=github_dark" alt="Mohanad's GitHub Stats"/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohanadAlgherbawi&show_icons=true&count_private=true)
 </p>
 
 ---
